@@ -1,0 +1,3 @@
+Il s'agit de la version 1 du projet de page d'accueil d'un site d'une agence de Voyage.
+Les clients remplissent un formulaire en indiquant le pays qu'il souhaitent visiter.
+Toutes les données qu'ils rentrent sont stockées dans une base de données.
